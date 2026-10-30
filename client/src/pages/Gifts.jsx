@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import Card from '../components/Card'
-import '../css/Gifts.css'
+import './Gifts.css'
 
 const Gifts = (props) => {
 

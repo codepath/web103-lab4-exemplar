@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import more from './more.png'
-import '../css/Card.css'
+import './Card.css'
 
 const Card = (props) => { 
     
